@@ -7,5 +7,5 @@ fun main() {
     for (i in 1..5) {
         println("i = $i")
     }
-    println("Hello! This is new edit")
+    println("Hello! This is Master edit")
 }
